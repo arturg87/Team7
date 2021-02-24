@@ -2,6 +2,8 @@
 This is to fulfill assignment A4
 
 
+This is Ismael Rodriguez, here to fulfill assignment A4.
+
 This is Nick Lundeen fulfilling requirements for A4
 
 This is Artur Gregorian fulfilling requirements for A4
